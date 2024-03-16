@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "Redirect",
+  "version": "1.1",
+  "description": "Redirects Instagram and specified porn websites to https://app.100xdevs.com/courses/",
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "*://www.instagram.com/*",
+    "*://www.pornhub.com/*",
+    "*://www.qorno.com/*",
+    "*://www.bhojpurisex.site/*",
+    "*://xnxx.health/search/sex+video/*",
+    "*://xhamster.desi/tags/bhojpuri-sex",
+    "*://onlyindianx.cc/mv/sex-sex-bhojpuri-movie-chutiya-madarchod/",
+    "*://www.xxxin.mobi/sex/bhojpuri-sex-hot/"
+  ],
+  "background": {
+    "scripts": ["source.js"],
+    "persistent": true
+  }
+  
+}
