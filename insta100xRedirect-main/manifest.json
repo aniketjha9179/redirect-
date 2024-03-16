@@ -18,6 +18,7 @@
   "background": {
     "scripts": ["source.js"],
     "persistent": true
+    
   }
   
 }
