@@ -1,4 +1,4 @@
-# insta100xRedirect
+#Redirect
 
 A Chrome extension that redirects `instagram.com` to `app.100xdevs.com/courses/` or any website you wanted to redirect
 
